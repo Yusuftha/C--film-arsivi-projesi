@@ -1,0 +1,9 @@
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\bin\Debug\FilmarsivProjesi.exe.config
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\bin\Debug\FilmarsivProjesi.exe
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\bin\Debug\FilmarsivProjesi.pdb
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\obj\Debug\FilmarsivProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\obj\Debug\FilmarsivProjesi.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\obj\Debug\FilmarsivProjesi.csproj.GenerateResource.Cache
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\obj\Debug\FilmarsivProjesi.exe
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\obj\Debug\FilmarsivProjesi.pdb
+C:\Users\Yusuf\Desktop\Programlar\YusufAydemirProje\FilmarsivProjesi\FilmarsivProjesi\obj\Debug\FilmarsivProjesi.Film_Arsiv.resources
